@@ -23,9 +23,8 @@ This project simulates basic ATM operations using file handling without any data
 
 ## 👤 Authors
 - [Shubham Mankar](https://github.com/Shubham56277)
+- Co-authored-by: Parth Sathbhai <parthsatbhai3@gmail.com>
 - Ronit Patil
-- Parth Sathbhai
-
 ---
 
 
