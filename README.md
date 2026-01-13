@@ -32,7 +32,7 @@ This project simulates basic ATM operations using file handling without any data
 ## 📂 Project Structure
 
 <img width="723" height="124" alt="image" src="https://github.com/user-attachments/assets/6925756b-f6c2-49fb-ba22-4013516d32f9" />
-## Give all .sh files permission like command: chmod +x filename.sh
+# Give all .sh files permission like command: chmod +x filename.sh
 
 <img width="629" height="293" alt="image" src="https://github.com/user-attachments/assets/98ce4800-0c1b-493b-990d-be75c7705f2c" />
 
