@@ -1,0 +1,29 @@
+
+-----------------------------
+Account No : 202501040168
+BALANCE CHECKED
+Balance : 2000
+-----------------------------
+Account No : 202501040168
+WITHDRAW : 100
+Balance  : 1900
+-----------------------------
+Account No : 202501040168
+BALANCE CHECKED
+Balance : 1900
+-----------------------------
+Account No : 202501040168
+DEPOSIT : 12500
+Balance : 14400
+-----------------------------
+Account No : 202501040168
+BALANCE CHECKED
+Balance : 14400
+-----------------------------
+Account No : 202501040168
+WITHDRAW : 1500
+Balance  : 12900
+-----------------------------
+Account No : 202501040168
+BALANCE CHECKED
+Balance : 12900

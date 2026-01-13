@@ -1,0 +1,17 @@
+RSP ATM System
+
+• ATM implemented using Bash shell script.
+• User must open an account before use.
+• Account data is stored in accounts.txt.
+• Login uses Account Number and PIN.
+• Supports balance check, withdraw, deposit, and last transaction.
+• All transactions are saved in receipt.txt.
+
+Files Used
+• atm.sh        – Main ATM program
+• accounts.txt – Stores account details
+• receipt.txt  – Stores transaction history
+
+Reference
+• Logic and documentation support taken from ChatGPT ©
+
